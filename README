@@ -1,0 +1,11 @@
+Safe ActiveRecord
+
+ -----the Rails's XSS terminator
+ -----CCNT Rails Team
+
+# example:
+# safe_attributes  escape_html all the string or text model column
+# safe_attributes :except => [:name] escape_html all the string or text model column except the name
+# safe_attributes :name do |attr|
+#   "ms " + attr
+# end h the name attribute and execute the block,return the block value

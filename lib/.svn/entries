@@ -1,0 +1,40 @@
+8
+
+dir
+2695
+http://192.168.1.100:3115/railsproject/ultratrace_2.0/vendor/plugins/safe_active_record/lib
+http://192.168.1.100:3115/railsproject
+
+
+
+2008-12-24T05:16:41.953125Z
+2669
+cxfsnow
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a4457dfc-58c0-b143-bd62-ef5ec838cb59
+
+safe_active_record.rb
+file
+
+
+
+
+2008-12-24T07:58:22.000000Z
+17f8fe01abe4989a079609537e4d70b2
+2008-12-24T05:16:41.953125Z
+2669
+cxfsnow
+
